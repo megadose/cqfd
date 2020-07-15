@@ -1,7 +1,7 @@
 # cqfd
 # Educational purposes only
 ### If you have any suggestions, please do not hesitate to contact us. 
-cqfd is a tool and a python libraries to search skype account from a name
+cqfd is a tool and a python libraries to search skype account from a name  
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 ### Demo
 ![](demo.gif)
