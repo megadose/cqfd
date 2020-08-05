@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='cqfd',
-    version="1.01",
+    version="1.011",
     packages=find_packages(),
     author="megadose",
     install_requires=["argparse","fake_useragent"],
