@@ -2,9 +2,9 @@ import requests
 import urllib.parse
 from fake_useragent import UserAgent
 from bs4 import BeautifulSoup
+ua = UserAgent(verify_ssl=False)
 
 def cqfd(name):
-    ua = UserAgent()
     headers = {
         'User-Agent': ua.firefox,
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
