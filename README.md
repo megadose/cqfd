@@ -1,10 +1,10 @@
 # cqfd
-<a href="https://www.buymeacoffee.com/megadose" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-# Educational purposes only
-### If you have any suggestions, please do not hesitate to contact us. 
+![PyPI](https://img.shields.io/pypi/v/cqfd) ![PyPI - Week](https://img.shields.io/pypi/dw/cqfd) ![PyPI - Downloads](https://static.pepy.tech/badge/cqfd) ![PyPI - License](https://img.shields.io/pypi/l/cqfd)
+#### For BTC Donations : 1FHDM49QfZX6pJmhjLE5tB2K6CaTLMZpXZ
+## Educational purposes only
+
 cqfd is a tool and a python libraries to search skype account from a name  
 
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 ### Demo
 ![](demo.gif)
 ## Project example : [cqfd Maltego](https://github.com/megadose/cqfd-maltego)
